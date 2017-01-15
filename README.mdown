@@ -1,0 +1,5 @@
+# To-Do List App
+
+This is a to-do list app built in a guided workshop using Node.js, Express, Handlebars.js, and MongoDB. I further developed the frontend independently. The app allows users to add, edit, and delete tasks one at a time. 
+
+-MdL
